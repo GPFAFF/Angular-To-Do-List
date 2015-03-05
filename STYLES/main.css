@@ -1,0 +1,32 @@
+html{
+	margin: 0 auto;
+	background: url("../IMG/angular-js.png") center center fixed;
+	background-size: cover;
+	color: rgba(0, 0, 0, 0.9);
+}
+h1 {
+	text-align: center;
+	margin-top: 130px;
+	text-shadow: 2px 2px 2px white;
+}
+div{
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+}
+ul, li{
+	text-align: center;
+	list-style-type: none;
+	padding: 10px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 2px white;
+
+}
+button, input{
+	text-align: center;
+	padding: 10px;
+	display: block;
+	margin: 10px auto 10px;
+	border: 2px solid black;
+
+}
